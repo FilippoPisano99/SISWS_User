@@ -1,0 +1,17 @@
+Manifest-Version: 1.0
+Main-Class: it.filos.ws.user.MicroWsApplication
+Class-Path: spring-boot-starter-logging-3.0.4.jar jul-to-slf4j-2.0.6.jar
+  jackson-annotations-2.14.2.jar jakarta.annotation-api-2.1.1.jar tomcat
+ -embed-websocket-10.1.5.jar spring-context-6.0.6.jar spring-expression-
+ 6.0.6.jar jackson-module-parameter-names-2.14.2.jar spring-aop-6.0.6.ja
+ r slf4j-api-2.0.6.jar spring-core-6.0.6.jar jackson-core-2.14.2.jar tom
+ cat-embed-el-10.1.5.jar spring-web-6.0.6.jar spring-boot-autoconfigure-
+ 3.0.4.jar snakeyaml-1.33.jar log4j-to-slf4j-2.19.0.jar spring-webmvc-6.
+ 0.6.jar spring-boot-starter-tomcat-3.0.4.jar spring-boot-starter-3.0.4.
+ jar jackson-datatype-jsr310-2.14.2.jar spring-boot-3.0.4.jar tomcat-emb
+ ed-core-10.1.5.jar logback-classic-1.4.5.jar jackson-databind-2.14.2.ja
+ r micrometer-observation-1.10.4.jar spring-boot-starter-json-3.0.4.jar 
+ micrometer-commons-1.10.4.jar spring-beans-6.0.6.jar spring-boot-starte
+ r-web-3.0.4.jar logback-core-1.4.5.jar log4j-api-2.19.0.jar jackson-dat
+ atype-jdk8-2.14.2.jar spring-jcl-6.0.6.jar
+

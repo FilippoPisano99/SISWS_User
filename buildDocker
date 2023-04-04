@@ -1,0 +1,2 @@
+docker build --build-arg JAR_FILE=out/artifacts/MicroWS_jar/ -t fil/ws .
+docker run -p 8080:8080 -d fil/ws UPURP
